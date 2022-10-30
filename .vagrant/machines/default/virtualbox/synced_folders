@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www/html":{"guestpath":"/var/www/html","hostpath":"D:/Rohith/tcs/Udemy learning/Devops/AWS Devops/vms/ubuntugus20/websitegit","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"D:/Rohith/tcs/Udemy learning/Devops/AWS Devops/vms/ubuntugus20","disabled":false,"__vagrantfile":true}}}
